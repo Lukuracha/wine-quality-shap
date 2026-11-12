@@ -1,1 +1,8 @@
-
+scikit-learn==1.6.1
+xgboost==3.4.1
+imbalanced-learn==0.14.2
+shap==0.52.0
+pandas
+numpy
+matplotlib
+scipy
