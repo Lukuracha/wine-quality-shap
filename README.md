@@ -26,10 +26,8 @@ The code automatically downloads the datasets from the UCI repository upon execu
 The primary environment used for this study is Google Colab. To run the experiments, you can either:
 
 **Option A: Open directly in Google Colab (Recommended)**
-Click the following link to open the notebook directly in Colab. No local installation is required.
-[Open Notebook in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/wine_quality_pipeline.ipynb)
-*(Note: Replace the URL above with your actual repository link).*
-
+You can view the full source code, including the rendered outputs and charts, directly in your browser without downloading anything:
+[Open `wine_quality_pipeline.ipynb` on GitHub](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/wine_quality_pipeline.ipynb)
 **Option B: Run Locally**
 If you prefer to run the code locally, clone this repository, install the dependencies using `pip install -r requirements.txt`, and open the `.ipynb` file in Jupyter Notebook or JupyterLab.
 
