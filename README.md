@@ -27,7 +27,7 @@ The primary environment used for this study is Google Colab. To run the experime
 
 **Option A: Open directly in Google Colab (Recommended)**
 You can view the full source code, including the rendered outputs and charts, directly in your browser without downloading anything:
-[Open `wine_quality_pipeline.ipynb` on GitHub](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/wine_quality_pipeline.ipynb)
+[Open `wine_quality_pipeline.ipynb` on GitHub](https://github.com/Lukuracha/wine-quality-shap/blob/main/white-red_wine.ipynb)
 **Option B: Run Locally**
 If you prefer to run the code locally, clone this repository, install the dependencies using `pip install -r requirements.txt`, and open the `.ipynb` file in Jupyter Notebook or JupyterLab.
 
